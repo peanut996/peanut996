@@ -1,4 +1,4 @@
-### Hi there 👋 This is Peanut996 🥜
+### Hi 👋 This is Peanut996 🥜
 
 <!--
 **peanut996/peanut996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
