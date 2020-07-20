@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Peanut996 🥜
 
 <!--
 **peanut996/peanut996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on making a crawler with Rust.
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Go](https://golang.org/)
+- 📫 How to reach me: [Gmail](849421294godw@gmail.com)
