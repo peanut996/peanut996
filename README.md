@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Go](https://golang.org/)
 - 📫 How to reach me: [Gmail](849421294godw@gmail.com)
 
-[![Peanut996's github stats](https://github-readme-stats.vercel.app/api?peanut996)](https://github.com/anuraghazra/github-readme-stats)
+[![Peanut996's github stats](https://github-readme-stats.vercel.app/api?peanut996)](https://github.com/peanut996/github-readme-stats)
